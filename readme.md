@@ -1,0 +1,2 @@
+- id: là id của mã sản phẩm
+- a : id của mã loại sản phẩm
